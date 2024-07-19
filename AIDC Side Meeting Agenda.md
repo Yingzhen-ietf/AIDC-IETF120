@@ -23,4 +23,4 @@ Eddie  Ruan (Alibaba)
 * **16:50 Perceptive Routing**
 Tianran Zhou (Huawei)
 
-* **17:15 Open Discussions**
+* **17:10 Open Discussions**
