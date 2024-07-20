@@ -14,7 +14,7 @@ https://ietf.webex.com/meet/ietfsidemeeting2
 
 * **15:30 Opening**
 
-* **15:35 Routing for AI training clusters of varing scales: survey of the problem space**
+* **15:35 Routing for AI training clusters of varying scales: survey of the problem space**
 Petr Lapukhov (Nvidia)
 
 * **16:20 HPN: A Data Center Network for Large Language Model Training**
